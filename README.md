@@ -13,8 +13,8 @@ present in this directory.
 
 The data set is expected to be provided in the following data structure:
 
-####/dataset/data/
+#### /dataset/data/
 The raw dataset downloaded in the `dataset.tgz` file.
 
-####/dataset/photos/
+#### /dataset/photos/
 The raw photos dataset downloaded in the `photos.tgz` file.
